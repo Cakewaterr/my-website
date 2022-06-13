@@ -1,2 +1,3 @@
-# my-website
-Christian Duff's personal website
+# Website
+
+Christian Duff's personal website !
